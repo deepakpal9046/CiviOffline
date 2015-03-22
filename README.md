@@ -1,2 +1,5 @@
 # CiviOffline
 This is the project to give people a better way while working without internet. By this they can store their files locally and when they'll connected to internet these files will automatically send to the server.
+Detailed Description : CiviOffline consists of multiple client applications that replicate CiviCRM core functionality. The applications are programmed in HTML/JavaScript and can run without a connection to the Internet. These tools can run on a tablet, netbook, laptop, etc, and are useful for situations where staff/volunteers may not have stable Internet access. The applications perform similarly to CiviCRM web based components, but are more responsive and store data locally. When the user connects to the Internet, data/changes are submitted back to the main server, with various strategies to avoid conflicts.
+
+As the client side applications become more mature, they may replace the CiviCRM server side components. Civi server components will primarily provide an api for data access/modification.
